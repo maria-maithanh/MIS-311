@@ -1,4 +1,4 @@
 # MIS-311
-##Introduction to Business Analytics
+## Introduction to Business Analytics
 
-###Data Analysis and Insight
+### Data Analysis and Insight
