@@ -1,2 +1,4 @@
 # MIS-311
-Course projects for MIS 311
+##Introduction to Business Analytics
+
+###Data Analysis and Insight
