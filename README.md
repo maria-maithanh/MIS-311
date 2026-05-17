@@ -42,12 +42,14 @@ Data cleaning was conducted to ensure the accuracy and consistency of the analys
 ### 3. Descriptive Statistics
 Descriptive statistics were used to summarize the main characteristics of the dataset and provide an overview of student performance patterns.
 
-Hình
+<p align="center">
+<img src="Descriptive_Statistics.png" width="700"> 
 
 The average final exam score is approximately 50, indicating moderate academic performance overall. Students spend an average of around 3 hours studying per day, while attendance rates remain relatively high around 84.7 across the dataset.
 
 
 **Grade Distribution**
+
 
 The histogram below illustrates the distribution of students’ final exam scores across the dataset. The visualization provides an overall overview of academic performance and helps identify common score ranges among students.
 
@@ -90,3 +92,14 @@ In conclusion, the exploratory data analysis identified several factors associat
 These results suggest that consistent study habits and regular class attendance are important contributors to academic success. The analysis also demonstrates how business analytics techniques such as descriptive statistics and data visualization can be used to uncover meaningful insights from educational data.
 
 ### References
+GitHub Docs. (2024). *Getting started with GitHub*. Retrieved from https://docs.github.com/ 
+
+GitHub. (n.d.). *Start your journey*. GitHub Docs. Retrieved from https://docs.github.com/ 
+
+Course Dataset. (2026). *Student Exam Performance dataset* [Excel dataset]. MIS 311 – Introduction to Business Analytics, Eastern International University.
+
+Microsoft Corporation. (2024). *Microsoft Excel*. Retrieved from https://www.microsoft.com/excel
+
+Knaflic, C. N. (2015). *Storytelling with data: A data visualization guide for business professionals*. Wiley. https://www.wiley.com/en-nl/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253 
+
+
