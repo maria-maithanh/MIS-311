@@ -15,6 +15,7 @@ The dataset used in this analysis is the Student Exam Performance dataset provid
 The dataset consists of approximately
   - 10,001 rows (1 header and 10000 observations) 
   - 23 columns (23 variables) 
+
 Each row represents a student, and each column represents a specific feature related to academic performance and learning behavior. 
 
 **The context or background of the data:**
