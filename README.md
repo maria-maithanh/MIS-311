@@ -33,7 +33,9 @@ The purpose of the dataset is to examine how different factors may influence stu
 Data cleaning was conducted to ensure the accuracy and consistency of the analysis. The dataset was checked for missing values and duplicate records before performing statistical analysis.
 
 - **Missing Values:** Inspection of the 23 variables across all 10,000 observations revealed zero missing values, requiring no data imputation or deletion.
+  
 - **Duplicate Rows:** No duplicate rows were detected; each record represents a unique student, ensuring data independence.
+  
 - **Data Types Verification:** The dataset features a well-structured mix of numerical variables (such as scores, study hours, … and attendance rates) and categorical variables (such as gender, parental education, study environment, … and pass/fail status), all correctly formatted for analysis.
 
 **Data Cleaning Conclusion:**
@@ -45,7 +47,7 @@ Descriptive statistics were used to summarize the main characteristics of the da
 <p align="center">
 <img src="Descriptive Statistics.png" width="700"> 
 
-  **TABLE 1: Descriptive Statistics of *final_exam_score*, *study_hours_per_day* and *attendance_rate***
+          **TABLE 1: Descriptive Statistics of *final_exam_score*, *study_hours_per_day* and *attendance_rate***
 
 The average final exam score is approximately 50, indicating moderate academic performance overall. Students spend an average of around 3 hours studying per day, while attendance rates remain relatively high around 84.7 across the dataset.
 
@@ -55,8 +57,7 @@ The average final exam score is approximately 50, indicating moderate academic p
 <p align="center">
 <img src="Final Exam Score.png" width="700">
 
-  **FIGURE 1: Histogram of Final Exam Score Distribution**
-
+          **FIGURE 1: Histogram of Final Exam Score Distribution**
 
 The histogram below illustrates the distribution of students’ final exam scores across the dataset. The visualization provides an overall overview of academic performance and helps identify common score ranges among students.
 
@@ -67,8 +68,7 @@ The distribution appears to be relatively concentrated around the middle score r
 <p align="center">
 <img src="Study Hours vs Final Exam Score.png" width="650"> 
 
-  **FIGURE 2: Scatterplot of *study_hours_per_day* and *final_exam_score***
-
+          **FIGURE 2: Scatterplot of *study_hours_per_day* and *final_exam_score***
 
 The scatter plot demonstrates a positive relationship between study hours per day and final exam scores. Students who spend more time studying generally tend to achieve higher examination results.
 
@@ -79,7 +79,7 @@ This finding suggests that study habits play a significant role in academic perf
 <p align="center">
 <img src="Attendance Rate vs Final Exam Score.png" width="650"> 
 
-  **FIGURE 3: Scatterplot of *attendance_rate* and *final_exam_score***
+          **FIGURE 3: Scatterplot of *attendance_rate* and *final_exam_score***
 
 The analysis indicates a positive relationship between attendance rate and final exam performance. Students with higher attendance rates generally achieve better examination scores compared to students with lower attendance levels.
 
@@ -91,12 +91,12 @@ Regular attendance may help students better understand lecture content, particip
 <p align="center">
 <img src="Grade Category pivot table.png" width="350"> 
 
-  **TABLE 2: Pivot table of *grade_category***
+          **TABLE 2: Pivot table of *grade_category***
 
 <p align="center">
 <img src="Total Grade Category Distribution.png" width="650"> 
 
-  **FIGURE 3: Pivot chart of Total Grade Category Distribution**
+          **FIGURE 3: Pivot chart of Total Grade Category Distribution**
 
 The grade category distribution shows that most students achieved average performance levels, while a smaller proportion of students reached the highest grade categories. This distribution provides an overall overview of academic achievement within the dataset.
 
