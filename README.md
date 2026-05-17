@@ -50,6 +50,8 @@ The average final exam score is approximately 50, indicating moderate academic p
 
 **Grade Distribution**
 
+<p align="center">
+<img src="Final Exam Score.png" width="700">
 
 The histogram below illustrates the distribution of students’ final exam scores across the dataset. The visualization provides an overall overview of academic performance and helps identify common score ranges among students.
 
@@ -57,7 +59,8 @@ The distribution appears to be relatively concentrated around the middle score r
 
 #### Insight 1: Study Hours and Final Exam Performance
 
-Hình
+<p align="center">
+<img src="Study Hours vs Final Exam Score.png" width="700"> 
 
 The scatter plot demonstrates a positive relationship between study hours per day and final exam scores. Students who spend more time studying generally tend to achieve higher examination results.
 
@@ -65,7 +68,8 @@ This finding suggests that study habits play a significant role in academic perf
 
 #### Insight 2: Attendance Rate and Academic Performance
 
-Hình
+<p align="center">
+<img src="Attendance Rate vs Final Exam Score.png" width="700"> 
 
 The analysis indicates a positive relationship between attendance rate and final exam performance. Students with higher attendance rates generally achieve better examination scores compared to students with lower attendance levels.
 
@@ -73,8 +77,12 @@ Regular attendance may help students better understand lecture content, particip
 
 
 **Grade Category Distribution**
-Pivot table
-Pivot chart 
+
+<p align="center">
+<img src="Grade Category pivot table.png" width="700"> 
+ 
+<p align="center">
+<img src="Total Grade Category Distribution.png" width="700"> 
 
 The grade category distribution shows that most students achieved average performance levels, while a smaller proportion of students reached the highest grade categories. This distribution provides an overall overview of academic achievement within the dataset.
 
@@ -101,5 +109,3 @@ Course Dataset. (2026). *Student Exam Performance dataset* [Excel dataset]. MIS 
 Microsoft Corporation. (2024). *Microsoft Excel*. Retrieved from https://www.microsoft.com/excel
 
 Knaflic, C. N. (2015). *Storytelling with data: A data visualization guide for business professionals*. Wiley. https://www.wiley.com/en-nl/Storytelling+with+Data%3A+A+Data+Visualization+Guide+for+Business+Professionals-p-9781119002253 
-
-
