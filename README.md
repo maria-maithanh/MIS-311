@@ -51,7 +51,7 @@ Descriptive statistics were used to summarize the main characteristics of the da
 
 The average final exam score is approximately 50, indicating moderate academic performance overall. Students spend an average of around 3 hours studying per day, while attendance rates remain relatively high around 84.7 across the dataset.
 
-**Grade Distribution**
+#### Grade Distribution
  
 <p align="center">
 <img src="Final Exam Score.png" width="700">
@@ -62,7 +62,7 @@ The histogram below illustrates the distribution of students’ final exam score
 
 The distribution appears to be relatively concentrated around the middle score ranges, indicating that most students achieved average academic performance. Only a smaller proportion of students achieved extremely high or low scores.
 
-#### Insight 1: Study Hours and Final Exam Performance
+### Insight 1: Study Hours and Final Exam Performance
 
 <p align="center">
 <img src="Study Hours vs Final Exam Score.png" width="650"> 
@@ -73,7 +73,7 @@ The scatter plot demonstrates a positive relationship between study hours per da
 
 This finding suggests that study habits play a significant role in academic performance. Consistent studying may improve students’ understanding of course materials and increase their likelihood of achieving better academic outcomes.
 
-#### Insight 2: Attendance Rate and Academic Performance
+### Insight 2: Attendance Rate and Academic Performance
 
 <p align="center">
 <img src="Attendance Rate vs Final Exam Score.png" width="650"> 
@@ -85,7 +85,7 @@ The analysis indicates a positive relationship between attendance rate and final
 Regular attendance may help students better understand lecture content, participate in classroom activities, and remain engaged with the learning process. This highlights the importance of classroom participation in supporting academic success.
 
 
-**Grade Category Distribution**
+#### Grade Category Distribution
 
 <p align="center">
 <img src="Grade Category pivot table.png" width="350"> 
