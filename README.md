@@ -45,6 +45,8 @@ Descriptive statistics were used to summarize the main characteristics of the da
 <p align="center">
 <img src="Descriptive Statistics.png" width="700"> 
 
+  **TABLE 1: Descriptive Statistics of *final_exam_score*, *study_hours_per_day* and *attendance_rate***
+
 The average final exam score is approximately 50, indicating moderate academic performance overall. Students spend an average of around 3 hours studying per day, while attendance rates remain relatively high around 84.7 across the dataset.
 
 
@@ -53,6 +55,9 @@ The average final exam score is approximately 50, indicating moderate academic p
 <p align="center">
 <img src="Final Exam Score.png" width="700">
 
+  **FIGURE 1: Histogram of Final Exam Score Distribution**
+
+
 The histogram below illustrates the distribution of students’ final exam scores across the dataset. The visualization provides an overall overview of academic performance and helps identify common score ranges among students.
 
 The distribution appears to be relatively concentrated around the middle score ranges, indicating that most students achieved average academic performance. Only a smaller proportion of students achieved extremely high or low scores.
@@ -60,7 +65,10 @@ The distribution appears to be relatively concentrated around the middle score r
 #### Insight 1: Study Hours and Final Exam Performance
 
 <p align="center">
-<img src="Study Hours vs Final Exam Score.png" width="700"> 
+<img src="Study Hours vs Final Exam Score.png" width="650"> 
+
+  **FIGURE 2: Scatterplot of *study_hours_per_day* and *final_exam_score***
+
 
 The scatter plot demonstrates a positive relationship between study hours per day and final exam scores. Students who spend more time studying generally tend to achieve higher examination results.
 
@@ -69,7 +77,9 @@ This finding suggests that study habits play a significant role in academic perf
 #### Insight 2: Attendance Rate and Academic Performance
 
 <p align="center">
-<img src="Attendance Rate vs Final Exam Score.png" width="700"> 
+<img src="Attendance Rate vs Final Exam Score.png" width="650"> 
+
+  **FIGURE 3: Scatterplot of *attendance_rate* and *final_exam_score***
 
 The analysis indicates a positive relationship between attendance rate and final exam performance. Students with higher attendance rates generally achieve better examination scores compared to students with lower attendance levels.
 
@@ -79,13 +89,16 @@ Regular attendance may help students better understand lecture content, particip
 **Grade Category Distribution**
 
 <p align="center">
-<img src="Grade Category pivot table.png" width="700"> 
- 
+<img src="Grade Category pivot table.png" width="350"> 
+
+  **TABLE 2: Pivot table of *grade_category***
+
 <p align="center">
-<img src="Total Grade Category Distribution.png" width="700"> 
+<img src="Total Grade Category Distribution.png" width="650"> 
+
+  **FIGURE 3: Pivot chart of Total Grade Category Distribution**
 
 The grade category distribution shows that most students achieved average performance levels, while a smaller proportion of students reached the highest grade categories. This distribution provides an overall overview of academic achievement within the dataset.
-
 
 ### Implications of the Findings
 The findings of this analysis suggest that study habits and classroom attendance play important roles in students’ academic performance. Students who spend more time studying and attend classes regularly tend to achieve higher final exam scores.
