@@ -43,7 +43,7 @@ Data cleaning was conducted to ensure the accuracy and consistency of the analys
 Descriptive statistics were used to summarize the main characteristics of the dataset and provide an overview of student performance patterns.
 
 <p align="center">
-<img src="Descriptive_Statistics.png" width="700"> 
+<img src="Descriptive Statistics.png" width="700"> 
 
 The average final exam score is approximately 50, indicating moderate academic performance overall. Students spend an average of around 3 hours studying per day, while attendance rates remain relatively high around 84.7 across the dataset.
 
