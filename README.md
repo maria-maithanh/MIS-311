@@ -13,18 +13,19 @@ The dataset used in this analysis is the Student Exam Performance dataset provid
 
 **Number of rows and columns:** 
 The dataset consists of approximately
-- 10,001 rows (1 header and 10000 observations) 
-- 23 columns (23 variables) 
+  - 10,001 rows (1 header and 10000 observations) 
+  - 23 columns (23 variables) 
 Each row represents a student, and each column represents a specific feature related to academic performance and learning behavior. 
 
 **The context or background of the data:**
 The dataset contains information related to students’ demographic background, study habits, lifestyle factors, and academic performance.
 Key variables include:
-- Study hours per day
-- Attendance rate
-- Sleep hours
-- Final exam scores
-- Grade Category
+  - Study hours per day
+  - Attendance rate
+  - Sleep hours
+  - Final exam scores
+  - Grade Category
+
 The purpose of the dataset is to examine how different factors may influence students’ academic outcome and overall performance.
 
 ### 2. Data Cleaning
